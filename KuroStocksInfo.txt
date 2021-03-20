@@ -1,0 +1,13 @@
+KuroStocks Fundamental Analysis Indicators
+
+Earnings per share (EPS): Neither earnings nor the number of shares can tell you much about a company on its own, but when you combine them, you get one of the most commonly used ratios for company analysis. EPS tells us how much of a company's profit is assigned to each share of stock. EPS is calculated as net income (after dividends on preferred stock) divided by the number of outstanding shares.
+Price-to-earnings ratio (P/E): This ratio compares the current sales price of a company's stock to its per-share earnings.
+
+Price-to-sales ratio (P/S): The price-to-sales ratio values a company's stock price as compared to its revenues. It's also sometimes called the PSR, revenue multiple, or sales multiple.
+Projected earnings growth (PEG): PEG anticipates the one-year earnings growth rate of the stock.
+
+Return on equity: Divide the company's net income by shareholders' equity to find its return on equity. You might also hear this expressed as the company's return on net worth.
+Price-to-book ratio (P/B): This ratio, also known as the price-to-equity ratio, compares a stock's book value to its market value. You can arrive at it by dividing the stock's most recent closing price by last quarter's book value per share. Book value is the value of an asset, as it appears in the company's books. It's equal to the cost of each asset less cumulative depreciation.
+
+Dividend payout ratio: This compares dividends paid out to the stockholders to the company's total net income. It accounts for retained earnings—income that is not paid out, but rather, retained for potential growth.
+Dividend yield: This, too, is a ratio—yearly dividends compared to share price. It's expressed as a percentage. Divide dividend payments per share in one year by the value of a share.
